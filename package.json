@@ -1,7 +1,7 @@
 {
 	"name": "itsunknown",
 	"version": "1.0.6",
-	"description": "A Sample Facebook Messenger Bot Modified By : @itsunknown",
+	"description": "A Sample Facebook Messenger Chat Bot Modified By : Bundas Andrian",
 	"main": "itsunknown.js",
 	"scripts": {
 		"start": "node index.js",
